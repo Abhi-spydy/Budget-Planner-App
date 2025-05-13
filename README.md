@@ -56,27 +56,38 @@
 
 
 
-🚀 Future Enhancements
+#🚀 Future Enhancements
 
-🔄 Multi-account support
-🌍 Currency converter
-🧾 Export reports in multiple formats (PDF/CSV)
-☁️ Cloud backup and sync using Firebase
+    🔄 Multi-account support
+    
+    🌍 Currency converter
+    
+    🧾 Export reports in multiple formats (PDF/CSV)
+    
+    ☁️ Cloud backup and sync using Firebase
 
 
-📚 References
-Android Developer Guide
-SQLite Documentation
-Expense Manager Sample
-IEEE & Software Engineering Research
+# 📚 References
 
-Agile/Scrum Methodologies
+    Android Developer Guide
+    
+    SQLite Documentation
+    
+    Expense Manager Sample
+    
+    IEEE & Software Engineering Research
+    
+    Agile/Scrum Methodologies
 
-👨‍💻 Author
-Abhishek R
-H Jayanth
-BCA, St. Francis College
-Academic Year: 2022–23
+#👨‍💻 Author
+    
+    Abhishek R
+    
+    H Jayanth
+    
+    BCA, St. Francis College
+    
+    Academic Year: 2022–23
 
 
 
