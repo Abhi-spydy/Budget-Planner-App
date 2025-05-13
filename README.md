@@ -43,34 +43,31 @@
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Budget-Planner-App.git
-2. Open the project in Android Studio.
+    1. Clone the repository:
+       ```bash
+       git clone https://github.com/your-username/Budget-Planner-App.git
+    2. Open the project in Android Studio.
+    
+    3. Sync the Gradle files and build the project.
+    
+    4. Run the app on an Android emulator or physical device with:
+    
+    5. Android 5.0 (API 21) or above
 
-3. Sync the Gradle files and build the project.
-
-4. Run the app on an Android emulator or physical device with:
-
-5. Android 5.0 (API 21) or above
 
 
 🚀 Future Enhancements
+
 🔄 Multi-account support
-
 🌍 Currency converter
-
 🧾 Export reports in multiple formats (PDF/CSV)
-
 ☁️ Cloud backup and sync using Firebase
+
 
 📚 References
 Android Developer Guide
-
 SQLite Documentation
-
 Expense Manager Sample
-
 IEEE & Software Engineering Research
 
 Agile/Scrum Methodologies
